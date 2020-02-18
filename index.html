@@ -19,7 +19,7 @@ description: "人的一生会遇到两个人，一个惊艳了时光，一个温
 		</div>
 	</a>
 	<p class="post-meta">
-		Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+		 {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}   发表于{{ post.date | date: "%B %-d, %Y" }}
 	</p>
 </div>
 <hr>
