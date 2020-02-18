@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      「软件」Komorebi
+title:      「软件」Komorebi——动态壁纸软件
 subtitle:   Linux的Wallpaper Engine
 date:       2019-05-03
 author:     Limexb
