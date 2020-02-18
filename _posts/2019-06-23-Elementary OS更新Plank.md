@@ -10,14 +10,14 @@ tags:
     - Elementary OS
     - Linux
 ---
-###1、添加PPA
+**1、添加PPA**
 >sudo add-apt-repository ppa:ricotz/docky
 >
 >sudo apt-get update
 
-###2、更新软件
+**2、更新软件**
 >sudo apt upgrade
 
-###3、重启Plank
+**3、重启Plank**
 >killall -9 plank
 
