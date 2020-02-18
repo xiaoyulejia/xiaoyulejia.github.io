@@ -1,18 +1,18 @@
 # Site settings | 网站设置
-title: RainbomSea
-SEOTitle: RainbomSea的博客 | RaimbomSea
+title: Limexb
+SEOTitle: Limexb的博客 | Limexb
 header-img: img/home-bg-he.png
-email: RainbomSea@qq.com
-description: "RainbomSea的博客"
-keyword: "RainbomSea, RainbomSea的博客, rainbom sea, rainbomsea, Python blog"
-url: "http://RainbomSea.github.io"          # your host, for absolute URL
+email: chowhound_xb@163.com
+description: "Limexb的博客"
+keyword: "Limexb, Limexb的博客, Limexb, Limexb, Limexb's blog"
+url: "http://Limexb.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repository | 代码仓库
+github_repo: "https://github.com/Limexb/Limexb.github.io" #code repository | 代码仓库
 
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
+sidebar-about-description: "你是二十七度飘落的雪，是席卷阿卡迪亚湾的风暴，是我生命中难得一见的日食。"
 sidebar-avatar: /img/head.jpg      # 头像
 
 
@@ -20,10 +20,10 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-facebook_username: rainbom.z
-github_username: RainbomSea
-zhihu_username: RainbomSea
-csdn_username: qq_39268193
+#facebook_username: rainbom.z
+github_username: Limexb
+#zhihu_username: RainbomSea
+#csdn_username: qq_39268193
 
 
 
@@ -61,11 +61,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    # 是否开启Gitalk评论
-  clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
-  clientSecret: 2670daea0c10372dd0296c371edc5ee4e73db43f    #生成的clientSecret
-  repo: RainbomSea.github.io    #仓库名称
-  owner: RainbomSea    # github用户名
-  admin: RainbomSea
+  clientID: cd17038db161edb68862                          #生成的clientID
+  clientSecret: 3ababc413d47f4cf6f9482e00806a6651cca1542    #生成的clientSecret
+  repo: Limexb.github.io    #仓库名称
+  owner: Limexb    # github用户名
+  admin: Limexb
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
@@ -73,7 +73,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 9acee03023ad0c6c993dd86df81e2ac8
+ba_track_id: 3fc1e0f9bb44b66f8af2db1bd8090b1b
 
 
 # Featured Tags
@@ -91,16 +91,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·RainbomSea",
-        href: "http://RainbomSea.github.io"
+        title: "GitHub·Limexv",
+        href: "http://Limexb.github.io"
     },{
-        title: "CSDN·RainbomSea",
-        href: "https://blog.csdn.net/qq_39268193"
-    },{
-        title: "知乎·RainbomSea",
-        href: "https://www.zhihu.com/people/RainbomSea"
-    },{
-        title: "GitBook·RainbomSea",
-        href: "https://legacy.gitbook.com/@rainbomsea"
+        title: "Bilibili·唧唧唧啾啾",
+        href: "https://space.bilibili.com/504877841/dynamic"
     }
 ]
