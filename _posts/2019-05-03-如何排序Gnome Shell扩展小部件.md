@@ -2,7 +2,7 @@
 layout:     post
 title:      如何排序Gnome Shell扩展小部件
 date:       2019-05-03
-author:     Limexb
+author:     小娱乐家
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:

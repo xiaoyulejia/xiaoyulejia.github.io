@@ -3,7 +3,7 @@ layout:     post
 title:      Elementary OS 0.5添加托盘图标
 #subtitle:   Elementary OS更新Plank
 date:       2019-06-23
-author:     Limexb
+author:     小娱乐家
 header-img: img/home-bg-o.jpg
 catalog: true
 tags:
