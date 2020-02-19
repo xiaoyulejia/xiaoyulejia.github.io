@@ -14,7 +14,7 @@ tags:
 
 ###实用免费的动态桌面软件
 Komorebi是Linux上一款完全免费的动态桌面软件，下图是它实际运行效果（gif图被压缩，实际效果非常高清哒！）
-![我的桌面](https://upload-images.jianshu.io/upload_images/10305138-64e78f434abcbaf2.gif?imageMogr2/auto-orient/strip)
+![我的桌面](https://s2.ax1x.com/2020/02/19/3E9aFS.gif)
 Komorebi的基本功能和Wallpaper Engine一样。支持图片，视频和Web页。Komorebi还内置一个壁纸制作软件，可以制作自己的动态壁纸。
 ![壁纸设置界面](https://upload-images.jianshu.io/upload_images/10305138-09999b6c86ddf328.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![动态壁纸制作软件](https://upload-images.jianshu.io/upload_images/10305138-48724c59a6cefcd5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
