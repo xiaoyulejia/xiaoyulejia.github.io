@@ -36,17 +36,13 @@
     <!-- Baidu Tongji -->
     {% if site.ba_track_id %}
     <script>
-        // dynamic User by Hux
-        var _baId = '{{ site.ba_track_id }}';
-
-        // Originial
         var _hmt = _hmt || [];
         (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?" + _baId;
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?3fc1e0f9bb44b66f8af2db1bd8090b1b";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
         })();
-    </script>
+        </script>
     {% endif %}
 </head>
