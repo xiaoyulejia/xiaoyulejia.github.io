@@ -91,8 +91,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·Limexv",
-        href: "http://Limexb.github.io"
+        title: "GitHub·Limexb",
+        href: "https://github.com/Limexb"
     },{
         title: "Bilibili·唧唧唧啾啾",
         href: "https://space.bilibili.com/504877841/dynamic"
