@@ -1,13 +1,13 @@
 # Site settings | 网站设置
-title: Limexb
-SEOTitle: Limexb的博客 | Limexb
-header-img: img/home-bg-he.png
-email: chowhound_xb@163.com
-description: "Limexb的博客"
-keyword: "Limexb, Limexb的博客, Limexb, Limexb, Limexb's blog"
-url: "http://Limexb.github.io"          # your host, for absolute URL
+title: xiaoyulejia
+SEOTitle: xiaoyulejia的博客 | xiaoyulejia
+header-img: img/home-bg-he.jpg
+email: yihanchenadma@gmail.com
+description: "xiaoyulejia的博客"
+keyword: "xiaoyulejia, xiaoyulejia的博客, xiaoyulejia, xiaoyulejia, xiaoyulejia's blog"
+url: "http://xiaoyulejia.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Limexb/Limexb.github.io" #code repository | 代码仓库
+github_repo: "https://github.com/xiaoyulejia/xiaoyulejia.github.io" #code repository | 代码仓库
 
 
 # Sidebar settings | 侧边栏设置
@@ -21,7 +21,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 # SNS settings | 社交网络设置
 #facebook_username: rainbom.z
-github_username: Limexb
+github_username: xiaoyulejia
 #zhihu_username: RainbomSea
 #csdn_username: qq_39268193
 
@@ -63,9 +63,9 @@ gitalk:
   enable: true    # 是否开启Gitalk评论
   clientID: cd17038db161edb68862                          #生成的clientID
   clientSecret: 3ababc413d47f4cf6f9482e00806a6651cca1542    #生成的clientSecret
-  repo: Limexb.github.io    #仓库名称
-  owner: Limexb    # github用户名
-  admin: Limexb
+  repo: xiaoyulejia.github.io    #仓库名称
+  owner: xiaoyulejia    # github用户名
+  admin: xiaoyulejia
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
@@ -91,8 +91,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·Limexb",
-        href: "https://github.com/Limexb"
+        title: "GitHub·xiaoyulejia",
+        href: "https://github.com/xiaoyulejia"
     },{
         title: "Bilibili·唧唧唧啾啾",
         href: "https://space.bilibili.com/504877841/dynamic"
