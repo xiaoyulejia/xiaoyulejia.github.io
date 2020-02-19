@@ -1,9 +1,9 @@
 # Site settings | 网站设置
-title: xiaoyulejia
-SEOTitle: 小娱乐家的博客 | xiaoyulejia
+title: 小娱乐家
+SEOTitle: 小娱乐家的博客 | 小娱乐家
 header-img: img/home-bg-he.jpg
 email: yihanchenadma@gmail.com
-description: "xiaoyulejia的博客"
+description: "小娱乐家的博客"
 keyword: "xiaoyulejia, xiaoyulejia的博客, xiaoyulejia, xiaoyulejia, xiaoyulejia's blog"
 url: "http://xiaoyulejia.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
