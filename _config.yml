@@ -12,7 +12,7 @@ github_repo: "https://github.com/xiaoyulejia/xiaoyulejia.github.io" #code reposi
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "你是二十七度飘落的雪，是席卷阿卡迪亚湾的风暴，是我生命中难得一见的日食。"
+sidebar-about-description: "即使你已经习惯了受伤害，也有人看了会心疼的。"
 sidebar-avatar: /img/head.jpg      # 头像
 
 
