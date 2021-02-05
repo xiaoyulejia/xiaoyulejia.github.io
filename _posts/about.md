@@ -39,6 +39,6 @@ https://play.google.com/store/apps/details?id=com.findtheway&hl=zh
 >[pxder](https://github.com/Tsuk1ko/pxder)
 >[clashX](https://github.com/yichengchen/clashX)
 >[clash](https://github.com/Dreamacro/clash)
-
+>[YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 
 
